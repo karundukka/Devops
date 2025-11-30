@@ -1,1 +1,1 @@
-my first project
+print("Hello from CSMA project!")
